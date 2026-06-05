@@ -86,6 +86,6 @@ Through PixelPlay, the following concepts are explored:
 ## 👩‍💻 Author
 
 **Zuha Fatima**
-Electronics and Communication Engineering Student
+Embedded Systems Engineer
 
 
