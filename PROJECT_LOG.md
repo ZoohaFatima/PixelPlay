@@ -15,3 +15,16 @@ Next:
 - Create Tic Tac Toe board
 - Test LED Matrix
 - Add button controls
+
+## Day 2 - Repository Setup
+
+Completed:
+- Set up VS Code workspace
+- Connected local repository to GitHub
+- Learned Git workflow
+- Created project structure
+
+Next:
+- Design Tic Tac Toe board
+- Implement LED matrix display
+- Test button inputs
